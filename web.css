@@ -1,0 +1,38 @@
+/*Background*/
+body{background-color: #f4e3e7;}
+
+/*Header*/
+h1{
+	text-align: center;
+	}
+
+/*Nav*/
+
+nav{	
+	text-align: left; 
+	font-size: 1.25em;
+	padding: 0px 0px 0px 0px;
+	font-weight: bold;
+	float: left;
+	width: 33%;
+	 }
+nav a{ text-decoration: none;}
+nav a {text-decoration: none;}
+nav a:link{ color: #fef6c2;}
+nav a:visited{ color: #d2b48c;}
+nav a:hover{ color: #cc9933;}
+nav ul {list-style: none;}
+nav li{ display: block;}
+
+
+
+/*div*/
+
+div{
+	text-align: left;
+	
+	}
+	
+#floatright{ float: right;
+			width: 15%;
+}
